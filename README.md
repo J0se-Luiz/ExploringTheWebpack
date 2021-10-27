@@ -9,4 +9,5 @@ npm install bootstrap@4.6.0 --save
 npm install css-loader@5.2.0 --save-dev
 npm install style-loader@2.0.0 --save-dev
 npm install mini-css-extract-plugin@1.4.0 --save-dev
+install css-minimizer-webpack-plugin@1.3.0 --save-dev
 ``
